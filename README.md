@@ -1,4 +1,7 @@
-## Eaaae galera, Lucas Aqui!
+## Olá pessoal eu sou o Lucas!
+
+- Veja a minha evolução enquanto aprendo HTML, CSS e JavaScript.
+- Entre em contato comigo no e-mail => luccas.lima12@gmail.com
 
 <div   align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eulucasvidal&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
