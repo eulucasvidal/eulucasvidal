@@ -18,12 +18,12 @@
   <h1 align="center">Redes Sociais</h1>
   
   <a href = "mailto: luccas.lima12@gmail.com">
-      <img width="40" src="gmail.svg">
+      <img width="40" src="email.svg">
     </a>
     <a href = "https://www.linkedin.com/in/vidal-lucas/">
       <img width="40" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/eu.lucasvidal/">
-      <img width="40" src="instagram.png">
+      <img width="40" src="instagram.svg">
     </a>
 </div>
