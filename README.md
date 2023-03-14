@@ -1,4 +1,4 @@
-## Eaaae galera beleza? Como vocês ja devem ter visto eu sou o Lucas!
+## Let's Boraaa
 
 - 💻 Veja a minha evolução enquanto aprendo HTML, CSS e JavaScript.
 - 📬 Entre em contato comigo no e-mail: luccas.lima12@gmail.com
