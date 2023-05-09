@@ -1,4 +1,4 @@
-## Let's Boraaa
+## Eaee Galeraaaa
 
 - 💻 Veja a minha evolução enquanto aprendo HTML, CSS e JavaScript.
 - 📬 Entre em contato comigo no e-mail: luccas.lima12@gmail.com
