@@ -25,10 +25,10 @@
   <a href = "mailto: luccas.lima12@gmail.com">
       <img width="40" src="email.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/vidal-lucas/">
+    <a href = "https://www.linkedin.com/in/goncalves-lucas/">
       <img width="40" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/eu.lucasvidal/">
+    <a href = "https://www.instagram.com/eu.lucasgoncalves/">
       <img width="40" src="instagram.svg">
     </a>
 </div>
